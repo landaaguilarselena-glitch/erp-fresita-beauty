@@ -1,0 +1,587 @@
+{
+  "products": [
+    {
+      "name": "Labial Berry Chic",
+      "short": "Labial",
+      "capacity": 300,
+      "reorderPoint": 50,
+      "color": "#D8005F",
+      "initialStock": 300.0,
+      "currentStock": 304.0,
+      "avgInventory": 297.33,
+      "rotation": 3.01,
+      "totalOutflows": 896.0,
+      "movements": [
+        {
+          "periodo": "Enero",
+          "tipo": "Saldo Inicial",
+          "cantidad": 300.0,
+          "saldoInicial": null,
+          "ingresos": null,
+          "salidas": null,
+          "saldoFinal": 300.0
+        },
+        {
+          "periodo": "Enero - Sem 1",
+          "tipo": "Ventas",
+          "cantidad": 81.0,
+          "saldoInicial": 300.0,
+          "ingresos": null,
+          "salidas": 81.0,
+          "saldoFinal": 219.0
+        },
+        {
+          "periodo": "Enero - Sem 2",
+          "tipo": "Compras",
+          "cantidad": 150.0,
+          "saldoInicial": 219.0,
+          "ingresos": 150.0,
+          "salidas": null,
+          "saldoFinal": 369.0
+        },
+        {
+          "periodo": "Enero - Sem 2",
+          "tipo": "Ventas",
+          "cantidad": 114.0,
+          "saldoInicial": 369.0,
+          "ingresos": null,
+          "salidas": 114.0,
+          "saldoFinal": 255.0
+        },
+        {
+          "periodo": "Enero - Sem 3",
+          "tipo": "Ventas",
+          "cantidad": 83.0,
+          "saldoInicial": 255.0,
+          "ingresos": null,
+          "salidas": 83.0,
+          "saldoFinal": 172.0
+        },
+        {
+          "periodo": "Enero - Sem 4",
+          "tipo": "Compras",
+          "cantidad": 150.0,
+          "saldoInicial": 172.0,
+          "ingresos": 150.0,
+          "salidas": null,
+          "saldoFinal": 322.0
+        },
+        {
+          "periodo": "Enero - Sem 4",
+          "tipo": "Ventas",
+          "cantidad": 53.0,
+          "saldoInicial": 322.0,
+          "ingresos": null,
+          "salidas": 53.0,
+          "saldoFinal": 269.0
+        },
+        {
+          "periodo": "Febrero - Sem 5",
+          "tipo": "Ventas",
+          "cantidad": 78.0,
+          "saldoInicial": 269.0,
+          "ingresos": null,
+          "salidas": 78.0,
+          "saldoFinal": 191.0
+        },
+        {
+          "periodo": "Febrero - Sem 6",
+          "tipo": "Compras",
+          "cantidad": 150.0,
+          "saldoInicial": 191.0,
+          "ingresos": 150.0,
+          "salidas": null,
+          "saldoFinal": 341.0
+        },
+        {
+          "periodo": "Febrero - Sem 6",
+          "tipo": "Ventas",
+          "cantidad": 59.0,
+          "saldoInicial": 341.0,
+          "ingresos": null,
+          "salidas": 59.0,
+          "saldoFinal": 282.0
+        },
+        {
+          "periodo": "Febrero - Sem 7",
+          "tipo": "Ventas",
+          "cantidad": 33.0,
+          "saldoInicial": 282.0,
+          "ingresos": null,
+          "salidas": 33.0,
+          "saldoFinal": 249.0
+        },
+        {
+          "periodo": "Febrero - Sem 8",
+          "tipo": "Compras",
+          "cantidad": 150.0,
+          "saldoInicial": 249.0,
+          "ingresos": 150.0,
+          "salidas": null,
+          "saldoFinal": 399.0
+        },
+        {
+          "periodo": "Febrero - Sem 8",
+          "tipo": "Ventas",
+          "cantidad": 80.0,
+          "saldoInicial": 399.0,
+          "ingresos": null,
+          "salidas": 80.0,
+          "saldoFinal": 319.0
+        },
+        {
+          "periodo": "Marzo - Sem 9",
+          "tipo": "Ventas",
+          "cantidad": 70.0,
+          "saldoInicial": 319.0,
+          "ingresos": null,
+          "salidas": 70.0,
+          "saldoFinal": 249.0
+        },
+        {
+          "periodo": "Marzo - Sem 10",
+          "tipo": "Compras",
+          "cantidad": 150.0,
+          "saldoInicial": 249.0,
+          "ingresos": 150.0,
+          "salidas": null,
+          "saldoFinal": 399.0
+        },
+        {
+          "periodo": "Marzo - Sem 10",
+          "tipo": "Ventas",
+          "cantidad": 99.0,
+          "saldoInicial": 399.0,
+          "ingresos": null,
+          "salidas": 99.0,
+          "saldoFinal": 300.0
+        },
+        {
+          "periodo": "Marzo - Sem 11",
+          "tipo": "Ventas",
+          "cantidad": 57.0,
+          "saldoInicial": 300.0,
+          "ingresos": null,
+          "salidas": 57.0,
+          "saldoFinal": 243.0
+        },
+        {
+          "periodo": "Marzo - Sem 12",
+          "tipo": "Compras",
+          "cantidad": 150.0,
+          "saldoInicial": 243.0,
+          "ingresos": 150.0,
+          "salidas": null,
+          "saldoFinal": 393.0
+        },
+        {
+          "periodo": "Marzo - Sem 12",
+          "tipo": "Ventas",
+          "cantidad": 53.0,
+          "saldoInicial": 393.0,
+          "ingresos": null,
+          "salidas": 53.0,
+          "saldoFinal": 340.0
+        },
+        {
+          "periodo": "Marzo - Sem 13",
+          "tipo": "Ventas",
+          "cantidad": 36.0,
+          "saldoInicial": 340.0,
+          "ingresos": null,
+          "salidas": 36.0,
+          "saldoFinal": 304.0
+        }
+      ]
+    },
+    {
+      "name": "Rubor Secret Berry",
+      "short": "Rubor",
+      "capacity": 250,
+      "reorderPoint": 50,
+      "color": "#FF66A3",
+      "initialStock": 250.0,
+      "currentStock": 198.0,
+      "avgInventory": 237.0,
+      "rotation": 4.02,
+      "totalOutflows": 952.0,
+      "movements": [
+        {
+          "periodo": "Enero",
+          "tipo": "Saldo Inicial",
+          "cantidad": 250.0,
+          "saldoInicial": null,
+          "ingresos": null,
+          "salidas": null,
+          "saldoFinal": 250.0
+        },
+        {
+          "periodo": "Enero - Sem 1",
+          "tipo": "Ventas",
+          "cantidad": 91.0,
+          "saldoInicial": 250.0,
+          "ingresos": null,
+          "salidas": 91.0,
+          "saldoFinal": 159.0
+        },
+        {
+          "periodo": "Enero - Sem 2",
+          "tipo": "Compras",
+          "cantidad": 150.0,
+          "saldoInicial": 159.0,
+          "ingresos": 150.0,
+          "salidas": null,
+          "saldoFinal": 309.0
+        },
+        {
+          "periodo": "Enero - Sem 2",
+          "tipo": "Ventas",
+          "cantidad": 61.0,
+          "saldoInicial": 309.0,
+          "ingresos": null,
+          "salidas": 61.0,
+          "saldoFinal": 248.0
+        },
+        {
+          "periodo": "Enero - Sem 3",
+          "tipo": "Ventas",
+          "cantidad": 95.0,
+          "saldoInicial": 248.0,
+          "ingresos": null,
+          "salidas": 95.0,
+          "saldoFinal": 153.0
+        },
+        {
+          "periodo": "Enero - Sem 4",
+          "tipo": "Compras",
+          "cantidad": 150.0,
+          "saldoInicial": 153.0,
+          "ingresos": 150.0,
+          "salidas": null,
+          "saldoFinal": 303.0
+        },
+        {
+          "periodo": "Enero - Sem 4",
+          "tipo": "Ventas",
+          "cantidad": 56.0,
+          "saldoInicial": 303.0,
+          "ingresos": null,
+          "salidas": 56.0,
+          "saldoFinal": 247.0
+        },
+        {
+          "periodo": "Febrero - Sem 5",
+          "tipo": "Ventas",
+          "cantidad": 65.0,
+          "saldoInicial": 247.0,
+          "ingresos": null,
+          "salidas": 65.0,
+          "saldoFinal": 182.0
+        },
+        {
+          "periodo": "Febrero - Sem 6",
+          "tipo": "Compras",
+          "cantidad": 150.0,
+          "saldoInicial": 182.0,
+          "ingresos": 150.0,
+          "salidas": null,
+          "saldoFinal": 332.0
+        },
+        {
+          "periodo": "Febrero - Sem 6",
+          "tipo": "Ventas",
+          "cantidad": 82.0,
+          "saldoInicial": 332.0,
+          "ingresos": null,
+          "salidas": 82.0,
+          "saldoFinal": 250.0
+        },
+        {
+          "periodo": "Febrero - Sem 7",
+          "tipo": "Ventas",
+          "cantidad": 65.0,
+          "saldoInicial": 250.0,
+          "ingresos": null,
+          "salidas": 65.0,
+          "saldoFinal": 185.0
+        },
+        {
+          "periodo": "Febrero - Sem 8",
+          "tipo": "Compras",
+          "cantidad": 150.0,
+          "saldoInicial": 185.0,
+          "ingresos": 150.0,
+          "salidas": null,
+          "saldoFinal": 335.0
+        },
+        {
+          "periodo": "Febrero - Sem 8",
+          "tipo": "Ventas",
+          "cantidad": 69.0,
+          "saldoInicial": 335.0,
+          "ingresos": null,
+          "salidas": 69.0,
+          "saldoFinal": 266.0
+        },
+        {
+          "periodo": "Marzo - Sem 9",
+          "tipo": "Ventas",
+          "cantidad": 23.0,
+          "saldoInicial": 266.0,
+          "ingresos": null,
+          "salidas": 23.0,
+          "saldoFinal": 243.0
+        },
+        {
+          "periodo": "Marzo - Sem 10",
+          "tipo": "Compras",
+          "cantidad": 150.0,
+          "saldoInicial": 243.0,
+          "ingresos": 150.0,
+          "salidas": null,
+          "saldoFinal": 393.0
+        },
+        {
+          "periodo": "Marzo - Sem 10",
+          "tipo": "Ventas",
+          "cantidad": 46.0,
+          "saldoInicial": 393.0,
+          "ingresos": null,
+          "salidas": 46.0,
+          "saldoFinal": 347.0
+        },
+        {
+          "periodo": "Marzo - Sem 11",
+          "tipo": "Ventas",
+          "cantidad": 124.0,
+          "saldoInicial": 347.0,
+          "ingresos": null,
+          "salidas": 124.0,
+          "saldoFinal": 223.0
+        },
+        {
+          "periodo": "Marzo - Sem 12",
+          "tipo": "Compras",
+          "cantidad": 150.0,
+          "saldoInicial": 223.0,
+          "ingresos": 150.0,
+          "salidas": null,
+          "saldoFinal": 373.0
+        },
+        {
+          "periodo": "Marzo - Sem 12",
+          "tipo": "Ventas",
+          "cantidad": 75.0,
+          "saldoInicial": 373.0,
+          "ingresos": null,
+          "salidas": 75.0,
+          "saldoFinal": 298.0
+        },
+        {
+          "periodo": "Marzo - Sem 13",
+          "tipo": "Ventas",
+          "cantidad": 100.0,
+          "saldoInicial": 298.0,
+          "ingresos": null,
+          "salidas": 100.0,
+          "saldoFinal": 198.0
+        }
+      ]
+    },
+    {
+      "name": "Gloss Berry Cute",
+      "short": "Gloss",
+      "capacity": 200,
+      "reorderPoint": 60,
+      "color": "#FFB3D9",
+      "initialStock": 200.0,
+      "currentStock": 175.0,
+      "avgInventory": 189.33,
+      "rotation": 5.2,
+      "totalOutflows": 985.0,
+      "movements": [
+        {
+          "periodo": "Enero",
+          "tipo": "Saldo Inicial",
+          "cantidad": 200.0,
+          "saldoInicial": null,
+          "ingresos": null,
+          "salidas": null,
+          "saldoFinal": 200.0
+        },
+        {
+          "periodo": "Enero - Sem 1",
+          "tipo": "Ventas",
+          "cantidad": 64.0,
+          "saldoInicial": 200.0,
+          "ingresos": null,
+          "salidas": 64.0,
+          "saldoFinal": 136.0
+        },
+        {
+          "periodo": "Enero - Sem 2",
+          "tipo": "Compras",
+          "cantidad": 160.0,
+          "saldoInicial": 136.0,
+          "ingresos": 160.0,
+          "salidas": null,
+          "saldoFinal": 296.0
+        },
+        {
+          "periodo": "Enero - Sem 2",
+          "tipo": "Ventas",
+          "cantidad": 104.0,
+          "saldoInicial": 296.0,
+          "ingresos": null,
+          "salidas": 104.0,
+          "saldoFinal": 192.0
+        },
+        {
+          "periodo": "Enero - Sem 3",
+          "tipo": "Ventas",
+          "cantidad": 88.0,
+          "saldoInicial": 192.0,
+          "ingresos": null,
+          "salidas": 88.0,
+          "saldoFinal": 104.0
+        },
+        {
+          "periodo": "Enero - Sem 4",
+          "tipo": "Compras",
+          "cantidad": 160.0,
+          "saldoInicial": 104.0,
+          "ingresos": 160.0,
+          "salidas": null,
+          "saldoFinal": 264.0
+        },
+        {
+          "periodo": "Enero - Sem 4",
+          "tipo": "Ventas",
+          "cantidad": 75.0,
+          "saldoInicial": 264.0,
+          "ingresos": null,
+          "salidas": 75.0,
+          "saldoFinal": 189.0
+        },
+        {
+          "periodo": "Febrero - Sem 5",
+          "tipo": "Ventas",
+          "cantidad": 50.0,
+          "saldoInicial": 189.0,
+          "ingresos": null,
+          "salidas": 50.0,
+          "saldoFinal": 139.0
+        },
+        {
+          "periodo": "Febrero - Sem 6",
+          "tipo": "Compras",
+          "cantidad": 160.0,
+          "saldoInicial": 139.0,
+          "ingresos": 160.0,
+          "salidas": null,
+          "saldoFinal": 299.0
+        },
+        {
+          "periodo": "Febrero - Sem 6",
+          "tipo": "Ventas",
+          "cantidad": 91.0,
+          "saldoInicial": 299.0,
+          "ingresos": null,
+          "salidas": 91.0,
+          "saldoFinal": 208.0
+        },
+        {
+          "periodo": "Febrero - Sem 7",
+          "tipo": "Ventas",
+          "cantidad": 86.0,
+          "saldoInicial": 208.0,
+          "ingresos": null,
+          "salidas": 86.0,
+          "saldoFinal": 122.0
+        },
+        {
+          "periodo": "Febrero - Sem 8",
+          "tipo": "Compras",
+          "cantidad": 160.0,
+          "saldoInicial": 122.0,
+          "ingresos": 160.0,
+          "salidas": null,
+          "saldoFinal": 282.0
+        },
+        {
+          "periodo": "Febrero - Sem 8",
+          "tipo": "Ventas",
+          "cantidad": 78.0,
+          "saldoInicial": 282.0,
+          "ingresos": null,
+          "salidas": 78.0,
+          "saldoFinal": 204.0
+        },
+        {
+          "periodo": "Marzo - Sem 9",
+          "tipo": "Ventas",
+          "cantidad": 68.0,
+          "saldoInicial": 204.0,
+          "ingresos": null,
+          "salidas": 68.0,
+          "saldoFinal": 136.0
+        },
+        {
+          "periodo": "Marzo - Sem 10",
+          "tipo": "Compras",
+          "cantidad": 160.0,
+          "saldoInicial": 136.0,
+          "ingresos": 160.0,
+          "salidas": null,
+          "saldoFinal": 296.0
+        },
+        {
+          "periodo": "Marzo - Sem 10",
+          "tipo": "Ventas",
+          "cantidad": 69.0,
+          "saldoInicial": 296.0,
+          "ingresos": null,
+          "salidas": 69.0,
+          "saldoFinal": 227.0
+        },
+        {
+          "periodo": "Marzo - Sem 11",
+          "tipo": "Ventas",
+          "cantidad": 86.0,
+          "saldoInicial": 227.0,
+          "ingresos": null,
+          "salidas": 86.0,
+          "saldoFinal": 141.0
+        },
+        {
+          "periodo": "Marzo - Sem 12",
+          "tipo": "Compras",
+          "cantidad": 160.0,
+          "saldoInicial": 141.0,
+          "ingresos": 160.0,
+          "salidas": null,
+          "saldoFinal": 301.0
+        },
+        {
+          "periodo": "Marzo - Sem 12",
+          "tipo": "Ventas",
+          "cantidad": 65.0,
+          "saldoInicial": 301.0,
+          "ingresos": null,
+          "salidas": 65.0,
+          "saldoFinal": 236.0
+        },
+        {
+          "periodo": "Marzo - Sem 13",
+          "tipo": "Ventas",
+          "cantidad": 61.0,
+          "saldoInicial": 236.0,
+          "ingresos": null,
+          "salidas": 61.0,
+          "saldoFinal": 175.0
+        }
+      ]
+    }
+  ],
+  "asOf": "2026-03-31"
+}

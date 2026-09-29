@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fresita Beauty",
+      "hasCanvas": false,
+      "bodyTextLen": 2229,
+      "bodyTextHash": "af3fd116f5be6ad76603d3e55c40ac09d776ed889ecd951b6c52b3428ae7539e",
+      "bodyTextPrefix": "DASHBOARD ERP Reporte de Ventas Control de Inventarios ERP inter",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fresita Beauty",
+      "hasCanvas": false,
+      "bodyTextLen": 2138,
+      "bodyTextHash": "534a462ba4e76818b549bda2982d5c76095f9d98fc3fcdd4cc0c5a41206cefe9",
+      "bodyTextPrefix": "Ventas Inventario COMERCIAL · Q1 2026 Reporte de ventas 713 oper",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
